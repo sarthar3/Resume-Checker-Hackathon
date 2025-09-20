@@ -42,8 +42,9 @@ ________________________________________
 1.	Run the Streamlit app:
  	streamlit run app.py
 2.	Open the local server link (default: http://localhost:8501).
-3.	Upload resumes and job descriptions for comparison.
-4.	View results and analysis in the web interface.
+3.	Authentication Password: admin
+4.	Upload resumes and job descriptions for comparison.
+5.	View results and analysis in the web interface.
 ________________________________________
 🛠️ Technologies Used
 •	Python
