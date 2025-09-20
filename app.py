@@ -1,5 +1,6 @@
 import streamlit as st
-import pdfplumber, docx2txt
+import pdfplumber
+import docx2txt
 import pandas as pd
 import sqlite3
 import matplotlib.pyplot as plt
